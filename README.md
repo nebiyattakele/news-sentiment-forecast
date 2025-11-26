@@ -76,6 +76,23 @@ GitHub Actions automatically runs tests on push or PR to ensure code quality.
 
 ---
 
+## Task 2 Deliverables
+
+- Branch: `task-2` for quantitative analysis
+- Load and prepare stock and news data
+- Compute technical indicators using TA-Lib:
+  - Moving Averages (SMA, EMA)
+  - Relative Strength Index (RSI)
+  - MACD
+- Use PyNance for additional financial metrics (returns, volatility)
+- Visualize data:
+  - Stock prices with indicators
+  - RSI and MACD plots
+  - Time series plots of stock and news sentiment
+- Document findings in notebooks with markdown explanations
+- Commit changes with descriptive messages
+
+
 ## Contact
 
 Nebiyat Takele  
