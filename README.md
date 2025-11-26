@@ -91,6 +91,25 @@ GitHub Actions automatically runs tests on push or PR to ensure code quality.
   - Time series plots of stock and news sentiment
 - Document findings in notebooks with markdown explanations
 - Commit changes with descriptive messages
+---
+
+## Task 3 Deliverables
+
+- Branch: `task-3` for correlation analysis
+- Data Preparation:
+  - Align news and stock datasets by date
+  - Normalize timestamps
+- Sentiment Analysis:
+  - Perform sentiment scoring on news headlines using TextBlob or NLTK
+  - Aggregate multiple articles per day if needed
+- Calculate Daily Stock Movements:
+  - Compute daily percentage change in closing prices
+- Correlation Analysis:
+  - Merge daily sentiment scores with daily stock returns
+  - Calculate Pearson correlation coefficient
+  - Visualize correlation with scatter plots
+- Document findings in notebooks with markdown explanations
+- Commit changes with descriptive messages
 
 
 ## Contact
